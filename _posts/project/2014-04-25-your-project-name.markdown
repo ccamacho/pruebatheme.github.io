@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "YOUR PROJECT NAME"
-date:   2016-06-17 16:54:46
+date:   2016-06-17 07:54:46
 author: Sasha purica
 categories:
 - project
@@ -11,7 +11,7 @@ carousel:
 - single02.jpg
 - single03.jpg
 client: Wonder Corp.
-website: http://sashapurica/pruebatheme.github.io/
+website: 
 ---
 ####YOUR PROJECT NAME
 Working to Wowza.
