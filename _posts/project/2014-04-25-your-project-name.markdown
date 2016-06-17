@@ -1,8 +1,8 @@
 ---
 layout: project
 title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+date:   2016-06-17 16:54:46
+author: Sasha purica
 categories:
 - project
 img: portfolio_01.jpg
@@ -11,7 +11,7 @@ carousel:
 - single02.jpg
 - single03.jpg
 client: Wonder Corp.
-website: http://blacktie.co
+website: http://sashapurica/pruebatheme.github.io/
 ---
 ####YOUR PROJECT NAME
 Working to Wowza.
