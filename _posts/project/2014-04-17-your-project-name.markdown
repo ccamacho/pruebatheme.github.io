@@ -11,7 +11,6 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
