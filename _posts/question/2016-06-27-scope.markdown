@@ -1,0 +1,11 @@
+---
+layout: question
+title:  "Scope"
+date:   2016-06-27 08:57:46
+author: Sasha Purica
+categories:
+- question
+---
+
+Transmission of messages by a large audience, different target.
+Reach a large group of people, in any geographic location, in order to transmit any type of event.
