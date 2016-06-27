@@ -1,0 +1,14 @@
+---
+layout: question
+title:  "Benefits"
+date:   2016-06-27 08:56:46
+author: Sasha Purica
+categories:
+- question
+---
+
+Best software and hardware available to ensure the stability that its streaming service needs.
+Opportunity to interact
+Can be played on any platform. No need to install extra buttons. You can listen to radio from any platform. The mobile platforms like:
+
+Android, Blackberry, iOS, WindowsPhone.
