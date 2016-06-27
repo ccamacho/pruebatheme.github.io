@@ -1,0 +1,31 @@
+---
+layout: github
+title: Github
+permalink: /github/
+---
+
+<div id="contactwrap"></div>
+
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-8">
+            <h4>Just Get In Touch!</h4>
+            <div class="hline"></div>
+                <p> <a href="http://sashapurica.github.io/pruebatheme.github.io/">Visit Wowza</a>  </p>                
+        </div><! --/col-lg-8 -->
+        <div class="col-lg-4">
+            <h4>Our Address</h4>
+            <div class="hline"></div>
+                <p>
+                    {% for line in site.address.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
+                <p>
+                    Email: {{ site.email }}<br/>
+                    Tel: {{ site.tel }}
+                </p>
+                <p>carloscamachoucv@gmail.com</p>
+        </div>
+    </div><! --/row -->
+</div><! --/container -->
