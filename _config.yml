@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: WOWZA.
+title: WOWZA
 description: "11Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: UA-50546869-2
 baseurl: "/pruebatheme.github.io" #important: start with /
@@ -53,7 +53,7 @@ tel: +34 8493-4893
 members:
   - name: Mark Webber
     position: CEO
-    text: Reviews 01.
+    text: Reviews01.
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -71,7 +71,7 @@ members:
         url: http://twitter.com/handle
   - name: Laura Sommers
     position: Lead Developer
-    text: Reviews 03.
+    text: Reviews03.
     img: team03.jpg
     social:
       - title: envelope #use for email address
@@ -80,7 +80,7 @@ members:
         url: http://twitter.com/handle
   - name: Martin Blunt
     position: Marketing
-    text: Reviews 04.
+    text: Reviews04.
     img: team04.jpg
     social:
       - title: envelope #use for email address
