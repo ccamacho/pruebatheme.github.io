@@ -2,7 +2,7 @@
 layout: question
 title:  "Why Use Wowza?"
 date:   2016-06-27 08:55:46
-author: Marcel Newman
+author: Sasha Purica
 categories:
 - question
 ---
